@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tpl5110)(type Legacy)(uri /home/dwblair/gitwork/switcher/switcher/tpl5110.lib)(options "")(descr ""))
+)
